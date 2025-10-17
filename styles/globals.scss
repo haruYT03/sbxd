@@ -1,0 +1,379 @@
+$background-color: #f1f5f9;
+$surface-color: #ffffff;
+$text-color: #1e2529;
+$brand-color: #778d9c;
+
+$content-width: 860px;
+$navigation-width: 120px;
+$on-palm: 580px;
+$image-max-width: 400px;
+$image-max-height: 300px;
+
+$base-font-family: -apple-system, BlinkMacSystemFont,
+  'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+$navigation-font-family: 'Hiragino Kaku Gothic ProN', Meiryo, -apple-system,
+  BlinkMacSystemFont, sans-serif;
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+* {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+html {
+  padding: 0;
+  margin: 0;
+  font-family: $base-font-family;
+  font-size: 16px;
+  background-color: $background-color;
+  color: $text-color;
+  word-break: break-all;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: $brand-color;
+
+  &:hover {
+    @media (hover: hover) {
+      text-decoration: underline;
+      opacity: 0.8;
+    }
+  }
+}
+
+code {
+  font-size: 0.8em;
+}
+
+img {
+  max-width: min($image-max-width, 100%);
+  max-height: $image-max-height;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: $content-width;
+  margin: 0 auto;
+  padding: 1em 2em 0 2em;
+
+  @include media-query($content-width + $navigation-width * 2) {
+    flex-direction: column;
+  }
+
+  @include media-query($on-palm) {
+    padding: 1em 0.5em 0 0.5em;
+  }
+}
+
+.navigation {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+  width: $navigation-width;
+  padding-top: 2em;
+  margin-right: -1 * $navigation-width;
+  padding-left: 1em;
+  font-family: $navigation-font-family;
+
+  @include media-query($content-width + $navigation-width * 2) {
+    width: 100%;
+    flex-direction: row;
+    align-items: stretch;
+    overflow-x: scroll;
+    white-space: nowrap;
+    padding-top: 1em;
+    margin-left: -2em;
+    padding-left: 2em;
+    margin-right: -2em;
+    padding-right: 2em;
+  }
+
+  @include media-query($on-palm) {
+    margin-left: -0.5em;
+    padding-left: 0.5em;
+    margin-right: -0.5em;
+    padding-right: 0.5em;
+  }
+}
+
+.brand-link {
+  font-weight: 600;
+  color: $text-color;
+  text-decoration: none;
+
+  &:hover {
+    @media (hover: hover) {
+      text-decoration: none;
+    }
+  }
+}
+
+.navigation-link {
+  color: $text-color;
+  text-decoration: none;
+}
+
+.navigation-link-active {
+  text-decoration: underline;
+}
+
+.content {
+  width: 100%;
+  padding: 2em 0 0 0;
+
+  @include media-query($content-width + $navigation-width * 2) {
+    order: 1;
+  }
+}
+
+.diary {
+  padding: 2em;
+  margin-bottom: 1em;
+  background-color: $surface-color;
+  border-radius: 0.3em;
+
+  @include media-query($on-palm) {
+    padding: 2em 1em;
+  }
+}
+
+.date-link {
+  h2 {
+    font-size: 1.7 * 1em;
+    margin-top: 0;
+    margin-bottom: 1em;
+    text-align: center;
+  }
+
+  color: $text-color;
+  text-decoration: none;
+
+  &:hover {
+    @media (hover: hover) {
+      text-decoration: none;
+    }
+  }
+}
+
+.sbx-line {
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+  line-height: 1.6;
+
+  &:before {
+    content: '・';
+    position: absolute;
+    margin-left: -1em;
+  }
+}
+
+.indent-0 {
+  margin-left: 0em;
+}
+
+.indent-1 {
+  margin-left: 1em;
+}
+
+.indent-2 {
+  margin-left: 2em;
+}
+
+.indent-3 {
+  margin-left: 3em;
+}
+
+.indent-4 {
+  margin-left: 4em;
+}
+
+.indent-5 {
+  margin-left: 5em;
+}
+
+.indent-6 {
+  margin-left: 6em;
+}
+
+.indent-7 {
+  margin-left: 7em;
+}
+
+.indent-8 {
+  margin-left: 8em;
+}
+
+.indent-9 {
+  margin-left: 9em;
+}
+
+.sbx-link {
+  text-decoration: none;
+}
+
+.sbx-icon {
+  max-width: 1em;
+  max-height: 1em;
+  margin-bottom: -2px;
+}
+
+.sbx-image-1 {
+  max-width: min($image-max-width, 100%);
+}
+
+.sbx-image-2 {
+  max-width: min($image-max-width, 50%);
+}
+
+.sbx-image-3 {
+  max-width: min($image-max-width, 33%);
+
+  @include media-query($on-palm) {
+    max-width: min($image-max-width, 50%);
+  }
+}
+
+.sbx-image-4 {
+  max-width: min($image-max-width, 25%);
+
+  @include media-query($on-palm) {
+    max-width: min($image-max-width, 50%);
+  }
+}
+
+.sbx-image-5 {
+  max-width: min($image-max-width, 20%);
+
+  @include media-query($on-palm) {
+    max-width: min($image-max-width, 50%);
+  }
+}
+
+.sbx-quote {
+  background-color: #eeeeee;
+  font-style: italic;
+}
+
+.sbx-youtube-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+}
+
+.sbx-youtube-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.sbx-audio {
+  max-width: 100%;
+}
+
+.sbx-pre {
+  font-size: 0.8em;
+  padding: 0.5em;
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+  border-radius: 0.3em;
+  background-color: $text-color;
+  color: $surface-color;
+  overflow-x: scroll;
+
+  pre {
+    margin: 0.2em 0;
+  }
+
+  .sbx-file-name {
+    color: $text-color;
+    background-color: $surface-color;
+    padding: 0.2em 0.4em;
+    border-radius: 0.2em;
+  }
+}
+
+.sbx-favicon-container {
+  position: absolute;
+  margin-left: -3em;
+  padding: 0.3em 0.5em 0.3em 1.3em;
+  background: lighten($brand-color, 30%);
+  height: 1em;
+  width: 1em;
+
+  &:hover {
+    @media (hover: hover) {
+      opacity: 0.8;
+      cursor: pointer;
+    }
+  }
+
+  @include media-query($on-palm) {
+    padding: 0.3em 0.3em;
+    margin-left: -1.5em;
+  }
+
+  &::before {
+    position: absolute;
+    content: '';
+    top: 100%;
+    left: 0;
+    border: none;
+    border-bottom: solid 0.5em transparent;
+    border-right: solid 1em lighten($brand-color, 20%);
+
+    @include media-query($on-palm) {
+      border-bottom: none;
+      border-right: none;
+    }
+  }
+
+  a {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+  }
+
+  .sbx-favicon {
+    width: 1em;
+    height: 1em;
+  }
+}
+
+hr {
+  height: 2px;
+  background-color: $background-color;
+  border: none;
+  margin: 1.5em 0;
+}
+
+.footer {
+  font-size: 0.9em;
+  text-align: center;
+  padding-bottom: 2em;
+
+  @include media-query($on-palm) {
+    font-size: 0.8em;
+  }
+}
