@@ -1,5 +1,5 @@
 const sbxdConfig = {
-  userId: 'ハルヒ',
+  userId: 'はるひ',
   title: '井戸端日記帳',
   projects: [
     {
