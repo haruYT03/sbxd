@@ -1,8 +1,22 @@
- 背景に海や雲を入れると構図がいい感じになる
- 	[https://gyazo.com/65f5cb167cf51f4131f5930a2597ca67][https://gyazo.com/89dc06b58065bee41361de2def2fcea5]
-  [https://gyazo.com/b455d08dd32f5f9cefc1e42360e89e88][https://gyazo.com/40f9662e1311e148126944bfc9a96c07]
-		[https://gyazo.com/508ee811bddafafd1ce8c37e03368069][https://gyazo.com/e73f60bd76db7ceb5b0b0ff50a06e8e3]
-		[NovelAI], prompt: {{flat color}}, 1girl, upper body, cloud shaped hair, head tilt, oversized clothes, hoodie, high-neck windbreaker, dark blue background, tilted clouds and sea in the background
-		いい感じ[基素.icon]
-		なにこれ[air34n.icon]
- 先週のミスを繰り返さず休日にするために、部屋の掃除をした
+	情報が錯綜しているので学科or学年Scrapboxがほしいですね。
+		主に1年生の時にやっていました。[mgn901.icon]
+			[mgn901.icon]が何でもScrapboxで管理しているので、それをコピーしたものを載せていただけだけれど。
+			友人からはかなり感謝されました。
+			間違っているときは指摘してもらえたりする。
+		まずは自分からやってみるというのがよさそう？[mgn901.icon]
+	あと、それでいうと、資格試験特化型の[Remnote]みたいなのが欲しい
+		学んだことの情報整理とフラッシュカードとを両方できるようなやつ
+			[GoodNotes]連携があるとよい
+				Goodnotesのフラッシュカード機能もまた使いづらい
+			スクボで[Flash Card]がつくれればいいのかな[基素.icon]
+				実質的にはそのとおりです[はるひ.icon]
+					≒[Remnote]
+	[引っ越し]とか[賃貸契約]ってかなりむずかしくない？
+		なにひとつ理解してないんだけど・・・
+			本当にムズい[sta.icon]
+		特に[郵便物の住所変更]とか
+	電子工作シミュレータではないが、ちょっと本格派そうな電子工作シムゲームや電子回路シムゲームが最近発表されている
+		[https://automaton-media.com/articles/newsjp/20221001-221229/ Steam電子工作シム『Retro Gadgets』発表。設計からプログラミングまで超自由度のMyガジェット作り - AUTOMATON]
+  [https://automaton-media.com/articles/newsjp/20220907-217931/ 電子回路設計＆プログラミングシム『Shortcuit』Steamにて体験版配信。Arduino風マイコンとC++言語でバーチャル実験 - AUTOMATON]
+  ちょっと興味があるが、別にゲームにしなくても日常でこれやってるわ、と思った[inajob.icon]
+  あはは、そうなるのかw[はるひ.icon]

@@ -1,7 +1,4 @@
- [DreamBooth]後で試す
- 	>[https://twitter.com/psuraj28/status/1575123562435956740 @psuraj28]: dreambooth #stablediffusion training is now available in 🧨diffusers!
-  >And guess what! You can run this on a 16GB colab in less than 15 mins!
-  >Github: https://t.co/ipIuIJNlMm
-  >Colab for training: https://t.co/n6uWQRgPK3
-  >Colab for inference: https://t.co/cbUoibYRWS
-  >[https://gyazo.com/a9cfe1e5ed0726eb9eb021163f08f64d]
+　最近よく[リック・アンド・モーティー]見てる
+　[DLsite]で[集英社]の漫画が取り扱い開始したらしく、記念のクーポンでかなり安く買える
+　	DLsiteはビューワーがなあ
+　	[https://www.simplelove.co/entry/20220929/1664444347 DLsiteで集英社コミックス配信開始！60%OFFクーポンは『スパイファミリー』『チェンソーマン』『ワンピース』『ドラゴンボール』など全巻対象！ - 絶対SIMPLE主義]

@@ -1,15 +1,44 @@
- GPT-3で[組分け帽子]を作る ([並列日記#63cfeb5de1daa50000ae95fd])、ありそうでなかった
- 	[https://gyazo.com/829a0410decfb243ee90fa6ffdb74cc7]
-		レイブンクロー、納得感ある
-		これはfew-shot learningに近いけど、モデル自体をfine-tuningしてみたい
- https://tapbots.social/@ivory/109745562673796762
- 	> Say Hello to [Ivory]. We are now available to all on Apple’s App Store! We have launched as “Early Access” because we still have a lot of exciting plans ahead of that will make Ivory even better. Go download it, try it free for 7 days, and experience it for yourself! https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274
- 	> [https://gyazo.com/fe163fe3eabdb925ac705c3fdd397cca]
-  入れてみよう[基素.icon]
-  いい感じ[shoya140.icon]
-  	[https://gyazo.com/24932ceb903a0100a5134a3de9659457][https://gyazo.com/426fac3324c20161aea59a669aee271d][https://gyazo.com/b2e262889532629dc9658f42e2967d1c]
-			`@shoya140@mstdn.jp`のアカウントがまだあったのでそれでログイン
-			[Tweetbot]のUIが再現されている
-			月額300円払う価値を感じるかどうかは人によりそう
-			 高いけどmastdonユーザーが少ないことを考えるとしょうがないか[基素.icon]
- 作業してたら朝7時になったしあと1時間でミーティング始まるので眠る時間取りそこねた...！
+	Vチューバーの画像見ると100パーの確率で”エロい絵で見たやつこういう名前のキャラなのか”が発生しますね
+	 ひどいw[基素.icon]
+	 二次創作でしか知らないキャラがいるのは分かる[teyoda7.icon]
+		それこそ[シャニマス]のキャラとか[エロ本]でしか知らない[はるひ.icon]
+	かつて流行ったようなパンケーキが食べたい
+	　[2023/01/24 ルビー]のサムネがそれに見えて…
+	　脳内で混戦して「[2023/01/24 ルビー]のサムネ[2023/01/24 ルビー.icon]がエロい絵で見たやつ？？？」となった、[あなた疲れてるのよ]、ねなさーい[nishio.icon]
+	　もうこういうの食べると[胸焼け]するな、、って感じなので食べれるうちに食べとくのが良いです(老化？)[inajob.icon]
+	　かつて、とか言いつつ結構好きで食べに行っている気もする[はるひ.icon]
+	Appleが史上最高にしょうもないCMを出してる
+　　[https://youtu.be/-p89peAjbLA]
+　最近[Toggl]と[Readwise Reader]を普段遣いするようになった
+　	とくにReadwise Readerは求めていた形のものでとても助かってる
+　	Togglは、機能面では魂の抜けたTaskChute Cloudという感じなのだけど
+　		めちゃくちゃUIが良い
+　		サクサク動くし、デバイス間の同期が完全
+　		またPCなら、
+　			何も計測してないと数分おきに通知してくれる
+　			ミニタイマーが便利
+　				[https://gyazo.com/4a160cada8772a835589e237c1c52b22]
+　Scrapboxだけでつつがなくやっている
+　	雑にページ切り出すの気持ちええ～
+　	Logseq等は[ホーム画面のカード型ビュー]ないのであまり雑に切り出したり出来心でページ作ったりがちとしにくい
+　		まずは日記に集約せよというスタイル
+　		そして折りたたんで永久に忘れ去られる…
+　			Tanaの、あらゆる行を[リンクサジェスト]してくるのはここで便利なのかな
+　[Scrapboxで勉強するの楽しい]
+	[マストドン]の将来性を測りかねている。。
+		Twitterと同じものを流すようにしてみてる[inajob.icon]
+			特に利用にコストがかかっていないので放置
+			今のところ障害はTwitterより多い
+	[/sta/間食でも米を食べる]
+		>[カロリー]が明らかに足りない
+		これだ！！
+		どんどん痩せてってるのは何だと思っていたが単に摂取量の不足である可能性が高い
+		[カロリー不足]
+		人によって必要摂取量がだいぶ違うみたいですね[sta.icon]
+			自分は1日3000kcalとか食べても全然太らなくて（179cm、55kgの体型はここ何年変わらず）、いわゆる[ハードゲイナー]ってやつなのかと疑っている
+			一方ですぐ太る人もいるらしい
+			180近くあって55はガリだ[はるひ.icon]
+	[https://gyazo.com/70d37222d1feea59798855fdaf998de2]
+		[Obsidian Canvas]の中にKozanebaを入れてやったぜ(so what)
+	[Devolver Tumble Time]日本版リリース！
+		開発に[NOPOPO]の大抜擢

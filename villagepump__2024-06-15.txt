@@ -1,0 +1,14 @@
+	Base Foodカップ焼きそばばかり食べてる
+		美味しいです？気になっているが不味いと嫌だなぁと思って手を出せてない[sta.icon]
+		いける耐えられる[はるひ.icon]
+		完全メシUFOでの感想だけど、焼きそばの味付けでごまかせているのでまあ食べれる、と思う[seibe.icon]
+		完全メシは旨い領域にいる[はるひ.icon]
+		Base Foodの方の旨さを察した[seibe.icon]
+	[https://xenospectrum.com/openai-ctos-statement-suggests-no-dramatic-improvement-in-ai-model-for-some-time/ OpenAIのCTOの発言はしばらくAIモデルに劇的な改善は見られないと示唆している | XenoSpectrum]
+	1643 井戸端
+		日記にこんな感じで書き込んでいる
+ 	Togglをつかうこともあるので、タイマー開始したら開始時刻とタスク名をScrapboxに送れたら便利かもしれない
+ 	Webhookが使えそう
+ 	GASを使ってみる
+ 	NOT VALIDATEDのバッヂが消えないなあ
+ 	scrapboxへの書き込みってできたっけ...[wogikaze.icon]

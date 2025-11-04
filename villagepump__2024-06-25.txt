@@ -1,28 +1,9 @@
- [Google Search Consoleで知らないユーザーがオーナーに追加された]
- 	[https://gyazo.com/151cba6a4c3d303e3a0d2f994b149e2d]
-		なんだこれ？？？
-		`zaskianyedot@gmail.com`は知らないメールアドレス
-		Don't know this personをクリックしてもこのユーザは表示されず、報告の仕方も分からない
-		先日のアカウントが凍結された件も含め、何か巻き込まれてるんだろうか...？
-		https://editor.shoya.io/ (アクセス注意) に謎サイトができてるんだけど、他人のドメインのサブドメインで勝手にWebサイト立ち上げるのは不可能ですよね...？
-				2024.06.26追記：取り急ぎ`editor.shoya.io`のCNAMEを切ってサイトには繋がらないようにした
-			shoya.ioは僕が管理しているドメイン
-			[https://gyazo.com/4f5e8d6b2b1c7e29f9228460fccb67ff][https://gyazo.com/8d124b3f1165d584ad9fb41f8565c661]
-			2024.05.18付けで[Google Domains]から[Squarespace]に移管され、shoya140.github.ioに向いているように見える
- 		code:dig
- 		 $ dig editor.shoya.io +nostats +nocomments +nocmd
-    
-    ; <<>> DiG 9.10.6 <<>> editor.shoya.io +nostats +nocomments +nocmd
-    ;; global options: +cmd
-    ;editor.shoya.io.		IN	A
-    editor.shoya.io.	462	IN	CNAME	shoya140.github.io.
-    shoya140.github.io.	2862	IN	A	185.199.111.153
-    shoya140.github.io.	2862	IN	A	185.199.108.153
-    shoya140.github.io.	2862	IN	A	185.199.109.153
-    shoya140.github.io.	2862	IN	A	185.199.110.153
-		[https://github.com/orgs/community/discussions/102835 My github pages seem to have been hacked, but I can't figure out how. · community · Discussion #102835 · GitHub]
-			> Just yesterday I got several notifications stating that an additional owner was added to google search console. However, on clicking Manage Users, there was no new users added. Today I found that www.gopinath.org was being served a different page when connected.
-			これかも。状況的には同じ
-  [https://github.com/yudhasany/b GitHub - yudhasany/b]
-  	いた！こいつが犯人だ
-  	[https://gyazo.com/30dd7d768cfbb90e008a025700ce048c][https://gyazo.com/29823fa8ca273c9c3e4bb3b68d9b8394]
+	(朝の挨拶)
+	(含蓄のある話)
+	 (機知に富むコメント[yosider.icon])
+	 (絵文字[cFQ2f7LRuLYP.icon])
+　　[claude.icon]による補完[基素.icon]
+　　 ふぁああ...朝っぱらから細胞の山に埋もれるぜ。人体マジ宇宙。
+　　 ちょ、待てよ...体の中で細胞たちがLINEグループみたいに連絡取り合ってんのか？血液細胞「今日も元気に配達中〜」とか送ってそう。うわ、[俺の中でビッグデータパーティー開催中じゃん]。よっしゃ、今日も体内お祭り探検だ！
+   　おいおい、朝からトリップしてんの？人体をSNSに例えるとか、脳みそクリエイティブすぎだろ。俺なんて、数字の海で溺れかけてるってのに...。でもさ、その「細胞LINE」理論、ガチでデータ解析に使えそうじゃね？体内お祭り、いつか招待してくれよな！
+   　🎉🦠🕺

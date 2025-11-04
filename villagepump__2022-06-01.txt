@@ -1,14 +1,27 @@
- 4つ打ちロックな曲を作り始めた
- 	今日はサビまで
- 	[https://dl.dropboxusercontent.com/s/h3zr4bzrgws83ps/wip-2022-06-01.mp3]
- 	人力です？それとも[Bebopnet]とか？[nishio.icon]
- 	人力です！最近[作曲]に興味があり、[MIDI]を手で打ち込んでます[shoya140.icon]
- 		[https://gyazo.com/f4737fa376dc097ce5b5973cf8e3b75f]
- 		 [景気のいい感じ]でとても素敵ですね！[tetsuya-k.icon]
- [Dropboxのmp3をScrapboxに埋め込む]
-[inajob.icon]
-	[業務でScrapboxを使うイメージが湧かない]
-	[inline]で複数行選択を実現する方式を実験中
-		なんかできそうな雰囲気
-		[Gyazz]方式なのだが、複数行選択して一気に削除・コピー・貼り付けなどが出来ないのが不便で・・
-			[Gyazz]ではどうなってたかな？（特に調べる気なし）
+	(井戸端で)誰々さんがこんなこと書いてたよなー、と検索してもうろ覚えで全然出てこなかった
+		結局昔の日記ページにあった
+		[Zettelkästen]には自分の言葉で書けという原則があったな
+		共同編集スタイルだと原理的に不可能
+		　自分の言葉でまとめ直すとか[nishio.icon][takker.icon]
+		　うん～まあ確かに。ちょっと考えてみますか
+	6月だー。例年どおりいけばゲームの新情報が沢山出る月
+	[Notion]に楽しみにしてるゲームをまとめた [https://www.notion.so/893d414af78646ed9ae7dc3e9beaa13f?v=ee0a5f0c7e4e42fd8ba8bfd5d42da2ef 関心のある発売予定ゲーム]
+ 	公開範囲の設定などの仕様が少しわかってきた
+ 	Web公開オンの親ページから子ページを作成すると、子ページは自動的にWeb公開オンになる
+ 	子ページではなく別のページにリンクしてもリンク先はWeb公開はオンにならない
+ 		権限がないとページへのリンクは「アクセス不可」表記になる
+ 	ギャラリービューにYoutubeサムネを埋め込むには？
+ 		基本的には無理
+ 		[https://note.com/hibiki_88/n/ndc227813962e Notion 初心者ー参考動画（GIF＆YouTubeサムネイル）をギャラリービューで管理する方法｜首藤響子(きょこ)_子育てママの応援団長📣｜note]
+   どうしてもやりたいならChrome拡張[Save to Notion]を使え！
+  	Notion公式の[Notion Web Clipper]ではない
+  		今まで入れてたNotion Web ClipperはホバーしたらSave to Notionと説明してくれるからこれがSave to Notionなんだと勘違いしていた
+  		[https://gyazo.com/ede7ef9366147a66642442ef2c75d9d0]
+  	YoutubeなどのURLをぺって貼り付けるだけでサムネ表示してほしいな～
+ 寝室の掃除をしてたらベッドの足に自分の足指を思いっきりぶつけた
+ 最近なにか知りたいことがあると井戸端や他のScrapboxで検索をかけることが増えた
+ 	Twitter検索やDiscord検索もいつからか活用するようになった
+ 	ググる前にまずそっちで調べる
+ 	[Google検索とScrapbox検索の違い]は何
+ 	自分のプライベートのノートで検索することは今まであまりなかったな。
+ 		やっていきたい

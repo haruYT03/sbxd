@@ -1,3 +1,39 @@
- 京都で食事
- 	大阪 - 京都間って大学生の頃は近いイメージだったけど、仕事の後に移動するとなると結構ギリギリ
- 	普段アメリカで働いていていま日本に一時帰国されている友人と久々に話せて楽しかった
+	たまにはゲームの話題
+		言うほどたまか？
+  6月！
+  	ゲームの発表系イベントがたくさんあって一番盛り上がる季節
+  	[Summer Game Fest]など
+		新作: [Friends vs Friends]をやる
+			[https://store.steampowered.com/app/1785150/Friends_vs_Friends/ Save 40% on Friends vs Friends on Steam]
+			デッキ構築+対戦FPS
+ 			というと[Phantom Dust]を思い出したり思い出さなかったり
+ 		めちゃくちゃ面白いが、難しい。。。
+ 		PCFPS猛者の巣窟みたいなとこでタイマン部屋ぶちこまれて勝てるわけねーじゃん
+ 		2対2もあるのでそっちをやる
+ 		しっかり勝っていかないとパックが剥けないのでより勝てないという
+ 		アートやBGMがかわいらしくてすごく良い
+		日本語化: [Pentiment]
+			[https://store.steampowered.com/app/1205520/Pentiment/ Pentiment on Steam]
+			英語が難しくて全然遊べてなかったが、発売から1年立たずに公式日本語訳追加というちょっとびっくりの早さ
+			中世バイエルンを舞台にしたアドベンチャーゲームで、当時の文化・宗教的背景といった点の考証が綿密になされているようだ
+			TRPG・CRPG文脈のADVという点ではDisco Elysiumと共通している
+				遊んでる感じはぜんぜん違うけど
+				あえてRPG感を外してきてるというか
+ 			開発の[Obsidian Entertainment]は[Fallout: New Vegas]や[Pillars of Eternity]等RPGで名を馳せるメーカー
+ 				FONVはそういえばEpic Games Storeで今週のgiveawayになっている
+ 				こっちはこっちで日本語化MOD適用に苦しむ声も散見するが…
+			初期ビルドでは大学時代に修めた修士号などを決めたり。論理学、神学、ラテン語、とか
+			絵がかわいい
+		アプデ: [Metal Hellsinger]が中旬にライセンス曲パックを出すらしい
+			>[https://twitter.com/MetalHellsinger/status/1663545972490895361?s=20 @MetalHellsinger]: On June 13, the gates of Hell open to eight chart-topping hit songs from some of the biggest bands in the world.
+   >🔥 The mosh pit welcomes all! 🔥
+   >[https://gyazo.com/ce105c364125770a27143ace1c7c9850]
+   このアートが気に入ったのではってみた
+  	スプラ3もアプデ来てたなー	
+  やらないけど: [LOOP8]が出たのか
+  	[ガンパレ]の芝村さんとマーベラスの新作
+  	ちょっとやってみたい
+  	QOLやフレームレートにだいぶ問題があるっぽい
+  	アプデ待ち案件か
+ ふー、満足(？？)
+ ChatGPTへの質問を推敲するプロセスで理解にたどりついてしまうことがしばしば

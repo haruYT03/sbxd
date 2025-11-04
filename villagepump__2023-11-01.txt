@@ -1,0 +1,3 @@
+	[https://publish.obsidian.md/mth225/START+HERE START HERE - MTH 225 Fall 2023 - Obsidian Publish]
+ 	>Welcome to the course vault for MTH 225: Discrete Structures for Computer Science 1 at Grand Valley State University.
+ 	Obsidianで数学、CSのテキストを作っているらしい

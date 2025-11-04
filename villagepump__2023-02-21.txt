@@ -1,20 +1,18 @@
- 睡眠時間が足りない
- 	[https://gyazo.com/167f9d8d5ff8caf67d10ac03888dd3da]
-		0時には横になってるんだけど、[入眠潜時] (眠りに入るまでの時間) が2時間以上ある
-		1-2時間おきに目が覚める
-		つらそう…[yosider.icon][sta.icon][cFQ2f7LRuLYP.icon]
-		つらい[shoya140.icon]
-		そうこうしているうちに7時だ...！
-	[井戸端依存症]を克服するために[UserCSS]で左上のメニュー上の井戸端へのリンクを消してみた
-		code:style.css
-   li a[href="/villagepump/"] {
-   	display: none !important;
-   }
-		目に入るとつい開いてしまうので
-		ブラウザのブックマークも消した
-		1クリックでは開けないようになった
-	[https://ja.stateofaiguides.com/20230218-s4-successor/ 次世代のトランスフォーマーを目指して: 状態空間モデル S4 の発展]
- 	> 状態空間モデルに基づき、高性能・高効率に長い系列を処理できることで話題になった [S4] の後続研究が続々と登場しています。本記事では、次世代の[トランスフォーマー]として有望視される S4 の発展的な研究を厳選して解説します。
-		11月に一時帰国したときに教えていただいた[S4] ([Structured State Space Sequence]) をキャッチアップしたい
-		[Efficiently Modeling Long Sequences with Structured State Spaces https://arxiv.org/abs/2111.00396]
- [言語デバフ]
+	最近[寝汗]をかく
+		寝入りばなは寒いから布団をかぶるが、起きるとびっしょり
+		同じく昨夜は寝汗かいた[yosider.icon]
+	ゆうべの飲み会お通夜みたいになって最悪だったw
+	 [お通夜みたいな飲み会]
+	孤独感はともかく、頼れる友人や家族のいない事実そのものが問題になること
+	[心電図]読むのめちゃむずいな
+		各疾患の特徴を覚えても本質の理解にあんまつながらない
+	なんか10日前くらいからBingと話にならないのだがなんなんだ
+	ミスった！
+		[https://gyazo.com/b7ed6ed1d47b50592e84d379a44684b1]
+		結構あるんだよなー
+		睡眠時間が足りてなかったかなあ
+		明日お昼の演奏会で眠気来てほしくね～でございますから、こんばんは寝たい
+	[Atomic Heart]やってる
+		垂直同期オプションが何故かいじれずティアリングしまくってる
+[https://www.youtube.com/watch?v=7PbpvkV_huM]
+	[https://grugnotes.com Grug Notes | Note taking and planning for Grug]

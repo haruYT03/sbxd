@@ -1,25 +1,30 @@
- ここ最近忙しかったり会食があったりしたのが原因か、熱を出してしまった
- 	今日は午前からずっと横になってます...
- 	[即興LT練習会 2023/06/11]、欠席します。参加したかった！
- 	たまたま予定のない週末で良かったかも
- 	一応あとで検査キットを買いに行く
- 	[/emoji/tea.icon][takker.icon][teyoda7.icon][meganii.icon][cFQ2f7LRuLYP.icon]
- 		🙏[shoya140.icon]
- 	起きた (20時)
- 	検査結果は陰性でした。咳もないので疲労か風邪かなぁ
-	[ストレスレス コンサル]が届いた
-		廊下をぎりぎり通らない大きさで、ドアを外して搬入していただいた
- [ハイラルの大地]に降り立った
- 	地面を自由に歩き回れる安心感
- 	早速ボコブリンを見つけ、嬉々として倒しに行った
- 	未慣れた敵、初めて見る敵、一気に「続編やってるな〜」という印象に
-	[watchOS 10] Betaの[High Frequency Motion API]が面白そう
-		[https://developer.apple.com/watchos/ watchOS 10 - Apple Developer]
-		> Detect rapid changes in direction and acceleration with access to higher frequency data from the improved gyroscope and accelerometer introduced in Apple Watch Series 8 and Ultra.
-		概要からすぐに[Gierad Laput https://www.gierad.com/]が関わってるプロジェクトだ！って分かる
-		[https://developer.apple.com/documentation/coremotion/cmbatchedsensormanager CMBatchedSensorManager | Apple Developer Documentation]
-			具体的に何Hzで取れるかは書いてないので実際に動かしてみないと
-			→解説あった！ 800Hzだ [https://developer.apple.com/videos/play/wwdc2023/10179/ What's new in Core Motion - WWDC23 - Videos - Apple Developer]
-			[https://gyazo.com/d762abcd5b7af497d6f9910de0e99e49][https://gyazo.com/375f5597d01b6395f858aae3b612c4e6][https://gyazo.com/deeb96d2782430afa73e3ec0a3cc96f7][https://gyazo.com/33603830a802e365c2565a446b057ebc]
-		関係ないかもしれないけど[https://developer.apple.com/documentation/coremotion/cmhighfrequencyheartratedata CMHighFrequencyHeartRateData]も追加されてる
-			心拍が1秒ごとに取れるようになった。良さそう
+	時間がねえのに[即興LT練習会 2023/06/11]気になる～～～
+	そろそろ夏アニメやな
+ 	呪術2期楽しみ
+ 今日、LT会でぼさぼさしながら聴いてて思い出した、ここ数ヶ月でChatGPTで簡単なコードがDIYできるようになってちょっとしたQoL向上が見られる
+ 	この前刹那的なシンプルメモ帳(？)を作った
+ 		掲示板っぽい形式、コピーすると全部消える
+ 	Vivaldiのサイドパネルでいつも開いてる
+ 	サイドパネルではScrapboxのやることリストをずっと開いてたけど、今はメモのほうが良いと思っている
+ 	[https://gyazo.com/6eb6bc8c86f2166d1a275824adcb1641]
+ 	いや、人に見せるとなると色々気になるな…
+ 	スクロールバーをiOSライクにしてくれ！でWebkitなるところから仕様を取ってきてくれた
+		OutputAreaの角丸からはみ出すのが気に入らなかったので隠れるようにしてくれ！はうまくいかなかった
+		シンプルに楽しい
+ UserScriptも作ってみようと数週間に一度思い立っては挫折を繰り返している
+ 	わたし「DOM把握？がまずできない」AI「じゃあ基本を勉強して出直してこい」
+ 	簡単なものでもおかしなところがところどころあるようなので、流石にScrapbox用の拡張というのはChatGPT身一つには厳しい世界みたい
+ 	 wakaru[kyamad9.icon]
+ 	  ちゃっぴーで Scrapbox の Script 書くのは難しい
+ 	[パクって技術GET]が手っ取り早いと思う[takker.icon]
+ 	 既存のUserScriptをバラしてrefactoringすると、以下を手に入れられる
+ 	 　scriptを構成しているパーツの意味
+ 	 　UserScriptでできることの具体例
+ 	 　それの実装方法
+ 	 [Javascriptはどうやって学んだ？]
+ 	 DOM系だとこの辺をバラすと作れるようになれそう
+  	 読取り系は[scrap]するやつみるとよろし
+     [/rashitamemo/ISBNや出版社の情報も取り込むブックマークレット]
+     [/scrasobox/見たまんまスクラップ]
+    UI自作する系はこれ
+     [/yutaro/emoji selector]

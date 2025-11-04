@@ -1,0 +1,4 @@
+	モニター表示がときどき切れるように
+	とりあえずHDMIケーブルかいたしてみる
+	どこのがいいだろう？1000円くらいの、これを買ってみたけど。https://www.amazon.co.jp/gp/product/B0CL6H35DY/ref=ewc_pr_img_1?smid=AN1VRQENFRJN5&th=1
+　arc search ブラウザ戻る進むとかのボタンが無いの普通に戸惑うな

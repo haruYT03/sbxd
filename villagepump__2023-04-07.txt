@@ -1,0 +1,19 @@
+	Blender
+		操作はチュートリアルをBingか自分のScrapboxで探していちいち見れば良いことがわかってきた, それらを組み合わせる
+		ランダムにYoutubeのチュートリアル見て手札を増やしてもいいが、そう暇でもないのでまず描きたいもの決めて目的に合わせることにしよう
+		今難しいところ
+ 		反射、影、空気感
+ 		狙った構図にすること
+ 			回転が難しい
+ 			複雑な作り方をした物体だと、後から大きさを変更するのすら一筋縄ではいかない
+ 			スケールを変えればいいということではきっとないんですよね[基素.icon]
+				実は3DCADのほうがやりたいことが出来たりして・・？[inajob.icon]
+					Belnderの下書きのようにも使えるのかな[はるひ.icon]
+					行き来するのは面倒そう、レンダリングだけBlenderとかなら簡単そう[inajob.icon]
+		「ボリューム」概念を理解しよう
+	10時間寝た、何故、、、？
+ 	今日は出かけたかったのだが～
+ ヨカゼナイト、Star Wars Celebrationなど楽しみが満載の週だった(コンテンツに生かされてる！)
+ [https://www.ign.com/articles/1010-scores-what-makes-a-game-worthy-to-you?taid=642fb86feea76d0001457cff&utm_campaign=trueAnthem%3A+Trending+Content&utm_medium=trueAnthem&utm_source=twitter 10/10 Scores: What Makes a Game Worthy to You? - IGN]
+ 	IGN USめっちゃ面白い企画やってた
+ 	IGNの評論家が10点満点をつけた近年のゲームについて、読者がそれに値するか投票する

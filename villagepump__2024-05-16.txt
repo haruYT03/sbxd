@@ -1,8 +1,20 @@
- お久しぶりです (10ヶ月ぶりだ！)
-  わーい！[takker.icon][biwa.icon][cFQ2f7LRuLYP.icon][maichan.icon][Summer498.icon][yuyuko.icon][cak.icon][Hiro Aki.icon][基素.icon][meganii.icon][nishio.icon][seibe.icon][sume.icon][はるひ.icon][nomadoor.icon][blu3mo.icon][sta.icon]
- 仕事と生活がちょっと忙しくて井戸端にアクセスする余裕がなかった
-	[Fujifilm]の新製品発表会
- 	[https://www.youtube.com/watch?v=_Kz9CuhHFng]
-		[X-E5]は発表されず...！
-		[X-T50]はフィルムシミュレーションダイヤル付き
-		　[富士フイルム]さんだ！！[sume.icon]
+	[https://gyazo.com/84cd409940edec59898316f87fcb8f34]
+		infoboxの活躍が見られる
+		日本語の情報が抽出されている。LLMでこうしたもののソートもできないか？
+		[ハイポ度]というのはじめて知った[seibe.icon]
+		わたしも最近しりました[はるひ.icon]
+			医療業界のスラングとして使われているらしい
+				[ハイポ]=ゆるい [ハイパー]=忙しい
+			けっこうみんな言っている
+		hypo-が不足、hyper-が超過・・からきてるのかな[seibe.icon]
+		　hypo-が不足・欠乏の意味とは知らなかった。hypothesisはまだきちんとした主張になっていないテーゼ→[仮説]ってことになるのかな
+		　	hypothesisのhypo-は【下に】という意味だったと思う
+		　		cf. [https://gogen-ejd.info/hypothesis/ hypothesis 意味と語源 – 語源英和辞典]
+     それをもとに（下に）物事を考えていくとどうなるか……？みたいなニュアンスじゃなかろうか[久住哲.icon]
+    おもしろい[はるひ.icon]
+	職種が決まってて新卒だと選択肢がそう無いので[適正給与がわからない]問題が発生しないな、、
+		なお使いものにならないので真の適正給与は0円の模様
+		新人研修の学費を払う必要がありそう[nishio.icon]
+		[適正学費がわからない]くなってしまう[はるひ.icon]
+	情報がとっちらかるなあ、、
+	ひさびさにHeptabase使おうかしら

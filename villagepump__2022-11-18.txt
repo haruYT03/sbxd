@@ -1,0 +1,57 @@
+	[GitHub but for books]
+ 	>[https://twitter.com/JosephJacks_/status/1583257437842219008?s=20&t=FZsJ0qTDaPv5NJqUeqCtcQ @JosephJacks_]: “Someone should create a @github but for books — with built in subscription incentives for an author to continuously update a book to make it a lifelong project”. — ⁦@lexfridman⁩
+  >Wow. Brilliant idea. YES please. Someone should build this …
+  Scrapboxを活用できない？
+  正確な編集履歴とかバージョン管理機能欲しがりそう(偏見)[yosider.icon]
+  [Lex Fridman]氏による発言
+  ちなみにこの回、7時間52分もある[https://podcasts.apple.com/us/podcast/331-balaji-srinivasan-how-to-fix-government-twitter/id1434243584?i=1000583319336 ‎Lex Fridman Podcast: #331 – Balaji Srinivasan: How to Fix Government, Twitter, Science, and the FDA on Apple Podcasts]
+ 英語のつづりに(も)弱すぎる
+ 	cow, complicated, [challenge], describeの母音を間違えたり、resourceのourやprocessのcessが出てこなかったりする
+ 	まとめて書き出してみると特に傾向もなく綴り方をそれぞれ忘れているらしいので大変な話しだなあ
+ [Flotato]
+		[https://www.theverge.com/2019/5/29/18644080/flotato-mac-web-apps-electron-fluid-webkit-slack-twitter Flotato is a wildly clever way to get web apps on your Mac - The Verge]
+	[『アルキメデスの球と球状体の取り扱いを巡って』]
+ iCloud100GB残り少なくなってきた
+ 	iCloud経由でObsidian同期するごとにコピーが枝分かれして倍々ゲームで増えていくというアホみたいなバグがあるのでそこも掃除しておきたい
+ [/sta/すごい需要予測 不確実な時代にモノを売り切る13の手法]
+ 	おもしろかった
+ 	こういう話を読むの何気に始めてかも？
+  	今、週末起業みたいな感じで友人とものを売ることをしている(転売詐欺に近いD2C)
+   	があまり振るわない
+ 			全員が教科書通りの動きを知らずに適当にふるまっているので、うまくいかないのは当然だなあと思う
+   		教科書どおりにやれば、今の自分たちみたいなカスい下位数%くらいは出し抜いてある程度たちゆくようになるのではないか
+   	[商売の教科書]、というようなものがあるのか？
+   		分野がよくわからない。経営？営業？ビジネス？マーケティング？経済？
+   		商売、ありとあらゆることなので絞りたい。xx型スモールビジネスのセオリー的なものはあると思う[基素.icon]
+   		それが[MBA]では[nishio.icon]
+   			確かに？[はるひ.icon]
+   			じゃあ、MBA取得で学ぶようなことを調べて、それを触ればいいのか？
+   	友人は商品開発で何度かバズらせてる何らかのセンスがある者なので、アウトプットがしょぼくても信用してしまう節が
+   		こういうのを全うな一般常識でもってなんとかサポートできるとよいと思う
+ 	 [2022/11/16#63747014b8bbfc000011848d]からか、楽しみのためにスタートアップ系の話ばかり見てた
+ 	商売全然興味ないけど、この本は惹かれるところがあった[sta.icon]
+ 		筆者が「色んなジャンルの色んなモンをかけ合わせて応用する」みたいなこと言ってて、そこに共感できるからかもしれない
+ 			本人は需要予測マニアと言っている
+ 		その需要予測も応用範囲広そうで、道具として知っておくと便利そうってのもある
+ 		わかりみを示します[はるひ.icon]
+	https://layers.to 登録した [https://twitter.com/layers_to Layers (@layers_to) / Twitter]
+	[Vivaldi]のブックマークバーやスタートページを[favicon]表示のみにしたいのだが策はある？
+		ブックマークバーは名前を消せばよい
+ 		+1[wogikaze.icon]
+		スタートページは自分で画像設定するしかないかな
+		スタートページはもうちょいミニマリストでいてほしい
+			広告ブロック報告とかいらないし、余白欲しい
+			わかる[nomadoor.icon]
+			 [Brave]のスタートページがいい感じ
+		拡張機能でスタートページを自分で作ったHTMLにはできる...が
+ 		[https://gyazo.com/ff6f6381db39cecb610546a9d35f007e]
+   一応軽くここの⚙から設定できるがfaviconだけにはできない[wogikaze.icon]
+    広告ブロック報告は消せる
+	[https://social.vivaldi.net/@Vivaldi/109359048926498316 Vivaldi: "The reception to Vivaldi Social has been unreal. …" - Vivaldi Social]
+ 	らしいです
+ [https://store.steampowered.com/app/2209030/Scrapbox/?curator_clanid=4777282&utm_source=SteamDB Scrapbox on Steam]
+ 	Scrapboxなる無関係のゲームが発売予定であるのを発見したw
+ 	素早くいい感じのブラケティングをすると得点が入る[nishio.icon]
+ [https://variety.com/2022/tv/news/quentin-tarantino-tv-series-plans-cinema-speculation-1235435184/ Quentin Tarantino Reveals Plans to Shoot TV Series Next Year - Variety]
+ 	たのしみ
+ Mastodon、Vivaldi鯖に入ったけど性器トゥートが全消しされてしまってダメ

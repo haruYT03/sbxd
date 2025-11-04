@@ -1,27 +1,38 @@
- [https://applech2.com/archives/20230225-diffusers-for-mac-support-apple-neural-engine.html テキストから画像を生成できるオープンソースのStable Diffusionアプリ「Diffusers for Mac」がGPU/Neural Engine選択に対応し、Apple Silicon Macでは生成速度が最大2倍に。]
- 	[Diffusers for Mac]が[Apple Neural Engine]をサポート
- 		手元の環境 ([M2 MacBook Air] 24GB RAM) だと v2.1 を1枚10秒で生成できた。これはすごい
- 		これまでにもMac用の[Stable Diffusion] GUIアプリは複数あったが、1枚あたり20秒以上かかっていた
- 		使ってすごいと思ったということは、自分の中で20秒と10秒の間のどこかに実用的かどうかの閾値がある
- 		これだけ速いならCLIで使いたいな
- 	[Core ML]でStable Diffusionを動かす方法は以前からあったけど、Apple Neural Engineは同じではないのか要調査
- 		[https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon Stable Diffusion with Core ML on Apple Silicon - Apple Machine Learning Research]
- 			[https://github.com/apple/ml-stable-diffusion GitHub - apple/ml-stable-diffusion: Stable Diffusion with Core ML on Apple Silicon]
- 			これのベンチマークがGPU版Diffusers for Macとほぼ同じ
-			[https://applech2.com/archives/20220607-apple-silicon-m2.html Apple、CPUとGPUに加えNeural/Media Engineを強化し、最大24GBのメモリを搭載可能な第2世代Apple Silicon「Apple M2」を発表。]
-				Neural EngineはCPU/GPUとは[SoC]上の別のハードとして存在するのか、なるほど勘違いしていた
-				　へぇ～～[yosider.icon][基素.icon]
-				Neural Engineを使うためのAPIがあるはず？→[2023/02/26#63fb6fd4e1daa50000c2556e]
- 		[https://huggingface.co/blog/fast-mac-diffusers Swift 🧨Diffusers - Fast Stable Diffusion for Mac]
-   	[https://github.com/huggingface/swift-coreml-diffusers GitHub - huggingface/swift-coreml-diffusers: Swift app demonstrating Core ML Stable Diffusion]
-    	オープンソースだった
-    	コード読んだほうが早そう！
-    	[https://github.com/huggingface/swift-coreml-diffusers/pull/28 Advanced Settings: ANE by pcuenca · Pull Request #28 · huggingface/swift-coreml-diffusers · GitHub]
- 		[https://huggingface.co/blog/diffusers-coreml Using Stable Diffusion with Core ML on Apple Silicon]
-   	> Once you have downloaded a snapshot of the model, the easiest way to run inference would be to use Apple's Python script.
-   	> $ python -m python_coreml_stable_diffusion.pipeline --prompt "a photo of an astronaut riding a horse on mars" -i models/coreml-stable-diffusion-v1-4_original_packages -o </path/to/output/image> --compute-unit ALL --seed 93
-   	> <output-mlpackages-directory> should point to the checkpoint you downloaded in the step above, and --compute-unit indicates the hardware you want to allow for inference. It must be one of the following options: ALL, CPU_AND_GPU, CPU_ONLY, CPU_AND_NE. You may also provide an optional output path, and a seed for reproducibility.
-   		Core MLが扱える`.mlmodel`に変換するときに`--compute-unit`で`CPU_AND_NE`を指定する
- 		[https://machinelearning.apple.com/research/neural-engine-transformers Deploying Transformers on the Apple Neural Engine - Apple Machine Learning Research]
-   	[https://gyazo.com/829a6ce40a3de706d8f0722249019e8e]
- 			タスクがGPUとNeural Engineのどちらで実行されているかは[Xcode]で確認することができる
+	アンバサダー[mtane0412.icon]さん誕生を目にしてから気になってた[Asana]をついに試している。このアプリすごい。
+ 	大量の[公式インテグレーション]や[オートメーション]で色んなことがシームレスにできるようになっているところに注目したい。
+  強力すぎて食らってしまった。
+  複数人で事を進めなきゃいけないときに真価が出る感じがします[mtane0412.icon]
+	タスクもひっくるめて全てノート(Scrapbox)でやる覚悟があると気軽に乗り移れないのがある。
+		というかまあ、テキストでタスク管理しないなんて今更考えられませんけどね
+	[勝間和代]のYoutubeを3倍速で見るのが一番落ち着く。
+		[https://www.youtube.com/watch?v=TfwJXhpxsV4]
+　　3倍速！？[teyoda7.icon]
+　　　等速でもだいぶ速い印象だ…
+ 　　ほとんど音楽みたいになってきます。[はるひ.icon]
+　「次この人に会ったらこの話をしよう」というのがなかなか達成できない。
+　	潔く会話の自然さを捨て、その場で電話をかける・メッセージを送る？
+　	GTDで言うなら、「その人にあった時」というコンテキストがつくことになる
+　スパ銭行きたいな
+　VivaldiのパネルでScrapboxを使うと意図しない挙動が多くて悩ましい
+ [店員と接しない店舗デザイン]とか、注文や決済スタイルの多様性・多様化自体についていくのが難しい[はるひ.icon]
+		あ、スタバでトッピング頼んだこと無いからトッピングのつけてもらいかたわからんわ
+			まあ言うだけなんだろうが
+		これを逆手にとって作法のわかりづらさを[意図的な敷居]にしているところもあれば、
+		注文方法や食事の食べ方といった作法を丁寧に説明してくれる店もある
+ 	これは自分だけの話じゃない
+	未だにわかってないこと
+		セブンイレブンでPaypay払う時どうするんだろう
+			メニューあるのかそのまま見せればいいのか
+			　[cman.icon]レジでの会計に使うならメニューに「バーコード決済」があるのでそれを押せばいけます
+			今度やってみるか
+		会計どこか見分け方
+			これはレジか…？と予測を立てそっと立ち上がって歩いて行くとき一番ドキドキする
+			間違えてたら食い逃げ
+				一度食い逃げ仕掛けたことがある[inajob.icon]
+					食券を始めに買う店のつもりで食べたまま店を出ようとした
+		クレカはかざすのか刺すのか
+	自分のLogseq見返してる
+		結構面白いこと書いてるな
+		読んだ本をネタにして、自分の関心事と結びつけていることが多い
+	ジルサンダー23AWがめっちゃよかった。何か一着ほしい。
+	お金貯めとこ

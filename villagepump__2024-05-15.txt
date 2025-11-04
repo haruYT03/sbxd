@@ -1,0 +1,27 @@
+	最近スペースを見つけては[側転]してしまう。病院の渡り廊下でやってしまったのがよくわからない偉いっぽい人に見つかって軽く怒られた
+	 いい話だ[biwa.icon]
+	 　いい話なの…か…[maichan.icon]
+	 名札つけ忘れていたので氏名判明を回避[はるひ.icon]
+	 こういうところでうまく話せない
+	手が汚れるのを避けたい
+	 はい[基素.icon]
+	  [https://youtu.be/LkyZDFqSBF4?si=tmXKVwWN7N0vFeZU]
+				[サイドフリップ]
+				[【パルクール】中級編『サイドフリップ』 | MISSION PARKOUR ACADEMY オンライン講座・やり方 - YouTube https://www.youtube.com/watch?v=wnlK3_w5Hiw]
+			これホントか？[はるひ.icon]
+			できるようになりたい[はるひ.icon][基素.icon]
+			絶対できたほうがいいなこれ
+		側転の草ポイントは手を十分使うことにも大きくあるんだよな、、
+		先に[ロンダート]で回転とバネの感覚掴んだ方が良いかもなぁ[sta.icon]
+			確かに[はるひ.icon]
+ 		(小学生の頃の話)ロンダートは練習してもできなかったおもいで、、
+ code:style.css
+    .new-button .horizontal-line,
+    .new-button .vertical-line {
+      transition: transform 0.5s ease-in-out;
+    }
+    .new-button:hover .horizontal-line,
+    .new-button:hover .vertical-line {
+      transform: rotate(180deg);
+    }
+	これを設定してたけどなんかラインの太さがホバー時に変わるようになっちゃった

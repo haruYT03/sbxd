@@ -1,0 +1,2 @@
+	Googleスプシの更新通知をLINEグループに送りたい
+		IFTTTか

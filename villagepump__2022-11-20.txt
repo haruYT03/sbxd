@@ -1,8 +1,52 @@
- 疲労のせいか土日2日間ずっと横になってた
- 	ようやく活動できるようになったのが日曜日の18時
- 	お大事に🍵[teyoda7.icon]
- 		[shoya140.icon]🍵
- 家事と事務作業を進めた
- 	空き箱をまとめて捨てられたのは良かった
- 	[片付けと掃除は違う]ということに気付いて以来 ([2022/10/16#634c39d3e1daa50000bab5be])、机や床の上に置いたものは寝る前に必ず片付けるようにしている
- 睡眠時間が後ろにずれないよう、[負けを認めて早く寝る]します
+	[scrapbox.io/arpla]のDiscordでボイチャしてた
+		むっちゃ楽しかった
+		Scrapbox民の方もいらして、解散後も話はずんでほぼサシで何時間もスクボのこと喋ってた
+ 	アープラ民と井戸端民はもっと交流すべきという結論に達しました(達してない
+ 	なおアープラの元祖は[LINEのオープンチャット]であるらしく、そのメンバーの一部がDiscord参加者とオーバーラップしている。また、Discord民の一握りがScrapboxに参加しており、そのまた一握りがScrapboxにおいてアクティブである。ということが判明しました
+ 	アープラノートProject、なんか軽いんだよなー。なんだろう。
+ 		[Settings]にあれこれ入ってないというだけなのかな
+ 		minifyしてみました[takker.icon]
+ 		　brand icon が表示されなくなったもよう [suto3.icon]
+ 		　 bundleされたコード内の`--logo-url: url(../../../pages/villagepump/brand-icon/icon)`を`--logo-url: url(https://scrapbox.io/api/pages/villagepump/brand-icon/icon)`に変更したら直った[yosider.icon]
+ 		　 [ScrapboxのBrand iconを井戸端にするUserCSS]を絶対パスにしてもbundleすると相対パスになってしまう
+ 		　  [scrapbox-bundler]の仕様です[takker.icon]
+ 		　  　なるほどです[yosider.icon]
+ 		　  [- もしかしたら相対パス変換でバグっているのかも]
+ 		　   UserCSSのURLの基準が`https://scrapbox.io/assets/css/app.css`なのが原因
+  		　   本来なら`style.css`がURLの基準になるのだが、[CSS変数]`--logo-url`はその変数が参照されたコードのURLが基準になる
+ 		　    `--logo-url`は`app.css`で読み込まれてしまうので、`style.css`を基準とする相対パスを`--logo-url`に入れてしまうと正常に読み込めなくなる
+ 		　   まじかー。このパターンは実装当時気づかなかった[takker.icon]
+ 		　  パス変換をしないoptionが必要そう？
+ 		　  （`/api/pages/...`は相対パスとは言わないのかも[yosider.icon]）
+ 		　 調査ありがとうございます[takker.icon]
+ 		　  相対パス指定だとダメだったのかな
+ 		　 対応ありがとうございます [suto3.icon]
+ 		　  ちょっとbrand icon の変更テスト 2022/11/20 16:39:21
+ 		　  　うまくいっているかな
+ 		　  　井戸端では、UserCSSの変更なしに brand icon の変更ができます（宣伝）
+ 		　  　元に戻しました 2022/11/20 17:30:34
+ 		 おっとすみません[takker.icon]
+ 		動作が軽いという話か。ノリが軽いみたいな話かと思って読み始めてしまったｗ[inajob.icon]
+ 		笑[はるひ.icon]
+ 		何かわかんないけど確実に早くなった[はるひ.icon]
+ 		自分のプロジェクトも重いけどminifyしたら早くなるのかなぁ[基素.icon]
+	おかげで今日も寝坊
+	脱力感が半端ない
+		昨日筋トレ結構追い込んだ
+		5日くらい何も食っておらず
+		 ……え？それって[飢餓状態]では？[takker.icon]
+		 そうかもしれません[はるひ.icon]
+		 筋トレの効果より飢餓による筋肉の分解の方が大きい可能性が…[nishio.icon]
+		 	これ嫌だ[はるひ.icon]
+		 とりあえず（？）今朝口がめっちゃ臭かったです[はるひ.icon]
+		 　今も臭い可能性
+		寝る前コーヒー飲んだのが効いてる
+	オーバーウォッチやってる。凄くおもしろい。
+	　[Next of Spla]におすすめです
+	　Haloもおすすめ
+	Doodleが可愛い
+		SoccerのWorld Cupか
+	「正しい偏見」というのはありえるか？
+		偏見の定義上ありえそうだが、実際に存在するかは怪しい？
+	クオリアァ！
+	[https://gyazo.com/df1167c46e91cf3efdd1b18bfd315f02]

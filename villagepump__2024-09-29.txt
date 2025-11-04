@@ -1,0 +1,11 @@
+	ねむいねむいねむいねむい
+ 	寝てしまった
+	Cosenseを比較的長く使っている理由に[Cosenseのデータ移行しにくすぎ]てめっちゃ他のツールが試しづらい！！！！というのがあることに今更気付いた、くそーうざい
+	　どういう形式なら移行しやすいんだろう[yosider.icon]
+ 	　Logseq（Markdown形式）→Obsidianはとりあえず見れるという意味で移行はできたな[seibe.icon]
+ 	　[https://help.taskade.com/en/collections/8400881-import-export 📤 Import & Export | Taskade Help Center] 理想はこう吸収してくれるところがある感じかもw[はるひ.icon]
+ 	　　すごい、親切だ[yosider.icon]
+	スマホにBalatro入れてしまって終わった
+ 	いや
+ 	StSなんかはアンロックしてないときなりの楽しさを感じることもあるが、バラトロやりなおすのはシンプルめんどいな。
+ 	終わらずにすんだ

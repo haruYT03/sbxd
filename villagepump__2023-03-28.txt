@@ -1,18 +1,23 @@
- [MacGPT]のInline Integrationが便利かも
- 	[https://www.youtube.com/watch?v=8k0CA-Z4bAc]
-  アップデートでテキストフィールドを監視できるようになった
-  	動いた: [Notes.app], [TextEdit], [CotEditor], [自作のプレーンテキストエディタ https://shoya140.github.io/editor/]
-  	動かなかった: [VSCode], [Pages], [Google Docs], [Scrapbox]
-  	　見た目を頑張ったせいで機械翻訳やAIとの親和性が低くなるとは…[nishio.icon]
-  デフォルトだと`:gpt プロンプト...`と書いて`Shift + Return`で実行
-	[https://parosky.hatenablog.com/entry/2023/03/27/214554 「文章を改善する」 - ぱろすけのブログ]
- 	なるほど
- 	自分も (↑のデモと矛盾するけど) ビジネス文書以外は自分の言葉で書きたいなと思う
- 	 自分は"文章を自分で書くこと"にはあまりこだわりはないけど、"[自分の文章を自分で選ぶ]こと"にはこだわりがあるかもしれない[blu3mo.icon]
-　　　　なので、ChatGPTが生成した文章を自分があり/なしと判断して選べるなら、どんどん使っていきたい気持ち[blu3mo.icon]
-　　　　こっち派[nishio.icon]
-　　　　 自分の文章をAIに書き直させて、僕が読んで「大事なことを落とした」と感じたところが、自分にとって「大事なところ」だとわかる
-　　　　 その上で「大事なところ」に関してより重点を置いて自分の言葉で書く、それがAIにできない僕の強みだから
-			自分の場合は選んだ結果だとしても後から読み返したときに自身の思考に影響を与えそう[shoya140.icon]
-				良い効果もあるかも。ネガティブな表現を緩和させて大したことなかったなと思わせるとか
-	ChatGPTのクライアントアプリを作ったりしてAPIの扱い ([GPT-4], stream=True) を大体理解した
+	Airpods買い替えたいけど新型今年出るのか出ないのかどっちなんだい
+	[Multiversus] "リローンチ"かー
+		先日[Deathverse]も似たような決定をした
+	[CS2]楽しみ、そういえば[CSO2]なんてのが一瞬あったなあ
+ 	Valorantの射撃感があまり好きじゃないので乗り換えを前向き検討
+ 	CS2はスモークグレネードの挙動が話題
+ 	> [Jordan Gilbert(@n0thing) https://twitter.com/n0thing/status/1638678245427257344]
+  > Use HE grenade + smoke trick in CS2  ✅ 
+  > [https://video.twimg.com/ext_tw_video/1638678076610740226/pu/vid/1280x720/q4xbYDchwxH9cHgM.mp4]
+  > 
+ 	たぶんもっと流体っぽい表現もできたはずだが、リアリティとゲームらしい遊びの中間をうまく突いてる感
+ > [Ozawa Kenji 小沢健二(@iamOzawaKenji) https://twitter.com/iamOzawaKenji/status/1640624805492977666]
+ > 空気階段のお二人が「勝負どき」に聴いていた曲たちを、リアルタイムで聴きながら三人でチャットします。お二人とも最高にかっこいい選曲です。クーッとなります。明日、Discordでごらんください。無料。ライブで２時間。終了後、すぐ消えます。
+ > 
+ > https://discord.gg/XCAeX6HKFb  
+ > [https://gyazo.com/8c9cc537d2cedf6d539ef2a99d5aa770]
+ > 
+ 　なんと
+　eShop終了が意外とメンタルに効く
+　	ゲームひとつサービス終了するだけでショックなのに急に1000本単位で購入・DL不可となると・・・
+	[5d7ced83-8e8a-4997-a60e-6338c5e4bb2c | 変化の激しい生成AI領域で競合優位性をつくる6つの方法｜梶谷健人 / Kent Kajitani｜note https://note.com/kajiken0630/n/n59d7ae673f54#5d7ced83-8e8a-4997-a60e-6338c5e4bb2c]
+  >Notion対抗のAIノートサービス「mem」のように、ユーザーが使えば使うほどデータが蓄積して他サービスに移りづらくなるなどの[スイッチングコスト]を高めることにより[競合優位性]を構築するという戦略
+  うおおお競合優位性！！！
