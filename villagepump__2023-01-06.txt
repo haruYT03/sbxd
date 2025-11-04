@@ -1,7 +1,7 @@
  面白い楽器つながりだと[LUMI Keys]もいい感じ
  	[https://roli.com/products/blocks/lumi-keys-studio-edition LUMI Keys Studio Edition by ROLI]
  	[https://gyazo.com/a0944a2506a0e0c241d002eae95c7a65][https://gyazo.com/8fbcc79c083439bfe7f27b0b27425cc1]
-		ゲーミングキーボード (MIDI)
+		[ゲーミングキーボード] (MIDI)
 		光る場所を専用のピアノ練習アプリと連動させたりキー/スケールに合わせたりできる
 			後者はピアノの白鍵と黒鍵が視覚的に塗り直される感覚
 			自分はこれでスケールを学習した

@@ -1,0 +1,14 @@
+ 4つ打ちロックな曲を作り始めた
+ 	今日はサビまで
+ 	[https://dl.dropboxusercontent.com/s/h3zr4bzrgws83ps/wip-2022-06-01.mp3]
+ 	人力です？それとも[Bebopnet]とか？[nishio.icon]
+ 	人力です！最近[作曲]に興味があり、[MIDI]を手で打ち込んでます[shoya140.icon]
+ 		[https://gyazo.com/f4737fa376dc097ce5b5973cf8e3b75f]
+ 		 [景気のいい感じ]でとても素敵ですね！[tetsuya-k.icon]
+ [Dropboxのmp3をScrapboxに埋め込む]
+[inajob.icon]
+	[業務でScrapboxを使うイメージが湧かない]
+	[inline]で複数行選択を実現する方式を実験中
+		なんかできそうな雰囲気
+		[Gyazz]方式なのだが、複数行選択して一気に削除・コピー・貼り付けなどが出来ないのが不便で・・
+			[Gyazz]ではどうなってたかな？（特に調べる気なし）

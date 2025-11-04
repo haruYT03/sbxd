@@ -4,4 +4,4 @@
   >Github: https://t.co/ipIuIJNlMm
   >Colab for training: https://t.co/n6uWQRgPK3
   >Colab for inference: https://t.co/cbUoibYRWS
-  >[https://pbs.twimg.com/media/Fdv2h9TWYAAun3H.jpg]
+  >[https://gyazo.com/a9cfe1e5ed0726eb9eb021163f08f64d]

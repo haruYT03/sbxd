@@ -13,6 +13,9 @@
  	　ググっても結局挙動を調べ直すので、その手間がない
  	　一まではググった結果から自分のコードに変換が必要だけど、GPTは指定通りに書いてくれるからコピペするだけ
 		> 主に Go と TypeScript や W3C や IETF の仕様について聞く場合はほぼ ChatGPT Plus を利用している。間違いとかはどうせ公式ドキュメントを読めばいいので、正しさは求めておらず、きっかけを求めている。
+		  [正しさではなくきっかけを求め]る
+		  cons:[/nishio/速さではなく正確さを求めよ、速さは後からついてくる]
+		   文脈が全然違うけど、見つかったので貼った[takker.icon]
 			熟練したプログラマは最初から完璧に動くコードを期待していないので、調べ直したり手直ししたりすることに対する抵抗がない。そのきっかけがあるだけで助かる[shoya140.icon]
 				今日読んだ[葬送のフリーレン] (10) にも似たようなことが描かれていた
 				[https://gyazo.com/da81ecf4a9aa7e6e8faaab8e877dfdd8]
@@ -21,7 +24,7 @@
      >  「それは単純で7年間研究を重ねたからです。」
      >  ちょっとサムさんのファンになっちゃう。
      >  https://txbiz.tv-tokyo.co.jp/wbs/vod/post_270863?code=1bzEy8tQhqjgQJBi
-     >  [https://pbs.twimg.com/media/FsIg3MIaQAAgLF9.jpg] [https://pbs.twimg.com/media/FsIg35XaQAA8SB6.jpg]
-		>大きく変わったのは Google で検索した際に出てくる「広告がたくさん貼り付けられていて怪しげなサイト」を目にしなくて良くなったことだ。
+     >  [https://gyazo.com/5fcdbfe017e81b843adca438ec541379] [https://gyazo.com/7e9ba29cfee0f7472bbdb09203c3a5d6]
+		>大きく変わったのは Google で検索した際に出てくる「[広告がたくさん貼り付けられていて怪しげなサイト]」を目にしなくて良くなったことだ。
 			ここも嬉しいポイント[kidooom.icon][shoya140.icon]
    Googleにとっては嬉しくないポイントだ[基素.icon]

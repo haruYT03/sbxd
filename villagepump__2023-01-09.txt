@@ -6,3 +6,4 @@
  	[https://instachord.com/instruction/howto_update/ インスタコードのアップデート – インスタコード/InstaChord]
  	専用の[ネイティブアプリ]を開発/インストールする必要がない
  	[WebUSB API]だろうか
+		もう実用的に使えるんだなぁって思った[nishio.icon][inajob.icon]

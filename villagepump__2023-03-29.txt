@@ -1,7 +1,7 @@
 	[まずは使ってみる]のいいなと思って、[ChatGPT]をベースにした[Slack Bot]を作ってみた
-	  [:igyo:.icon][takker.icon][issac.icon][kidooom.icon]
-	  discord botもほしいな～([yuyasurarin.icon]さんあたりを見つつ)
-	  クレカがないので色々不便[yuyasurarin.icon]
+	  [:igyo:.icon][takker.icon][cFQ2f7LRuLYP.icon][kidooom.icon]
+	  discord botもほしいな～([wogikaze.icon]さんあたりを見つつ)
+	  クレカがないので色々不便[wogikaze.icon]
 	 [https://github.com/shoya140/chatgpt-slack-bot GitHub - shoya140/chatgpt-slack-bot]
 	 	工夫点としてChatGPTの回答をstreamで受け取ってBotの投稿を逐次上書きしている
 	 	1トークンごとに上書きするとSlackのレートに達してしまったのでひとまず10トークンごと

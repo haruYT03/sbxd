@@ -2,7 +2,7 @@
  	[https://gyazo.com/167f9d8d5ff8caf67d10ac03888dd3da]
 		0時には横になってるんだけど、[入眠潜時] (眠りに入るまでの時間) が2時間以上ある
 		1-2時間おきに目が覚める
-		つらそう…[yosider.icon][sta.icon][issac.icon]
+		つらそう…[yosider.icon][sta.icon][cFQ2f7LRuLYP.icon]
 		つらい[shoya140.icon]
 		そうこうしているうちに7時だ...！
 	[井戸端依存症]を克服するために[UserCSS]で左上のメニュー上の井戸端へのリンクを消してみた
@@ -17,4 +17,4 @@
  	> 状態空間モデルに基づき、高性能・高効率に長い系列を処理できることで話題になった [S4] の後続研究が続々と登場しています。本記事では、次世代の[トランスフォーマー]として有望視される S4 の発展的な研究を厳選して解説します。
 		11月に一時帰国したときに教えていただいた[S4] ([Structured State Space Sequence]) をキャッチアップしたい
 		[Efficiently Modeling Long Sequences with Structured State Spaces https://arxiv.org/abs/2111.00396]
- [外国語という係数]
+ [言語デバフ]
