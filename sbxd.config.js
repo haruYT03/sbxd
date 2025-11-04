@@ -3,13 +3,8 @@ const sbxdConfig = {
   title: '井戸端日記帳',
   projects: [
     {
-      projectId: 'shoya140',
-      startDate: '2022-11-21',
-    },
-    {
       projectId: 'villagepump',
-      startDate: '2022-08-01',
-      endDate: '2022-11-22',
+      startDate: '2021-09-01',
     },
   ],
 }
