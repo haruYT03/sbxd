@@ -1,0 +1,10 @@
+ [/wanna]が楽しくて夜更かし。結局眠らないまま1日をスタートした。
+ [スクボ共同編集の楽しさ]を存分に味わえたのでよしとする。文字通り時間を忘れて没頭してしまった。
+ zattoさん付き合ってくれてありがとう
+ パソコンをしてて時間を忘れないためには？
+ 	[fClock]
+	 	没頭したい動画を見るときに、fClockの最前面表示を切ってしまうことがある。この前そうしたまま戻し忘れていた
+	 	「n分だけこの機能をオフ」といったことがしたい
+ 	 	Freedomで
+ [https://github.com/TatriX/pomidor/?tab=readme-ov-file GitHub - TatriX/pomidor: Pomidor is a simple and cool pomodoro technique timer.]
+ https://misohena.jp/blog/
