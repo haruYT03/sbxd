@@ -33,3 +33,4 @@
  private projectの内容流出したらいやすぎる！！
   super恥[caki.icon]
  ぎゃぞ、Googleアカウントでログインしてるならパスワードとかなかったよね？
+ 	あったしGoogleログインしてもなかった
