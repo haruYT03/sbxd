@@ -4,3 +4,8 @@
 		迷い中[sta.icon][Nrem.icon]
 		課金すると良いことがある？[mtane0412.icon]
 		 モデルが[Muse Spark]から[Muse Wonder]というのに変わるのか
+		 無料もWonderになったってザッカーバーグが言ってた[基素.icon]
+		 	そうなのか。うちのMuseは自身のことを Muse Spark だと自己紹介していたんだけども[Nrem.icon]
+		 		対象ユーザーや内部ツールによってモデルが違うのかしら
+		 使用量が緩和されて遠慮なく使えるようになるのではと予想[sta.icon]
+		 わからんw[はるひ.icon]
